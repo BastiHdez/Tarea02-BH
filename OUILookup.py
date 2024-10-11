@@ -1,3 +1,5 @@
+#Integrantes:
+#Basthian hernandez y Carlos Gonzalez
 import sys
 import getopt
 import subprocess
